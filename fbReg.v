@@ -1,4 +1,6 @@
 `timescale 1ns / 1ps
+// ECE230 DP3 EX 1
+// module definition of D-type flip flop
 
 module fbReg(
              input [3:0] D, // 4-bit data input
