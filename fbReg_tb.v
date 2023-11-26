@@ -1,4 +1,6 @@
 `timescale 1ns / 1ps
+// ECE230 DP3 EX 1
+// testbench definition of 4-bit register
 
 module fbReg_tb;
 reg [3:0] D;
